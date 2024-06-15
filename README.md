@@ -10,7 +10,7 @@ Değerlendirme
 Kullanıcı Arayüzü
 Gereksinimler
 Sonuç
-Proje Hakkında
+Proje Hakkında:
 Bu proje, İstanbul'daki konut fiyatlarını tahmin etmek için geliştirilmiştir. Farklı regresyon modelleri kullanılarak en iyi performansı gösteren model seçilmiş ve bu model üzerinden bir tahmin arayüzü geliştirilmiştir. Projede kullanılan tüm adımlar Jupyter Lab ortamında gerçekleştirilmiştir.
 
 Veri Toplama :
